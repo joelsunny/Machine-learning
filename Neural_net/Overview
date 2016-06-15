@@ -1,0 +1,9 @@
+#Neural network
+
+
+# parsing the dataset
+# random initialisation of weights
+# forward propogation - calculation of layerwise activations
+# back prop to calculate gradient wrt weights
+# optimisation algorithm - preferably SGD which uses backprop to update weights
+# prediction function
